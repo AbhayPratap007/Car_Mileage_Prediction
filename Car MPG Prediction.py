@@ -55,8 +55,6 @@ from sklearn.metrics import r2_score
 r2_score(y_test,y_predict)
 #Accuracy - 83.73%
 
-
-
 #----------------------------Backward elimination(It used to remove those value of dev which has not significant level on dev)-----------------------
 
 #import libraries
